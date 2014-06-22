@@ -1,6 +1,6 @@
-require "pap/utils/version"
+require 'pap/utils/version'
 
-module Pap
+module PAP
   module Utils
     # Your code goes here...
   end
