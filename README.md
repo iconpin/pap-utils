@@ -1,4 +1,4 @@
-# Pap::Utils
+# PAP::Utils
 
 TODO: Write a gem description
 
